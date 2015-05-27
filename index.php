@@ -3,7 +3,7 @@
 Plugin Name: Feedbackstr easyShare
 Plugin URI: http://feedbackstr.com/en/feedbackstr-easyshare
 Description: Integrate your <a href="http://feedbackstr.com">Feedbackstr.com</a> feedback tab or your entire survey into your Wordpress page. You can also change all tab settings directly on the Wordpress administration area. 
-Version: 1.1.2
+Version: 1.0.0
 Author: Spectos
 Author URI: http://spectos.com
 Text Domain: fdbeasyshare
