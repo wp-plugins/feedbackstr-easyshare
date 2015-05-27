@@ -29,10 +29,10 @@ To install it, please follow these steps:
 More Information at [Feedbackstr.com](http://feedbackstr.com/ "Our Feedbackstr Support-Team ")
 
 == Screenshots ==
-screenshot-1
-screenshot-2
+1. Feedbackstr easyShare Dashboard
+2. Feedbackstr iFrame Generator
 
 == Changelog ==
 
-= Version 1.0 =
+= Version 1.0.0 =
 * Initial Release
