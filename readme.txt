@@ -29,8 +29,8 @@ To install it, please follow these steps:
 More Information at [Feedbackstr.com](http://feedbackstr.com/ "Our Feedbackstr Support-Team ")
 
 == Screenshots ==
-`/assets/screenshot-1.png`
-`/assets/screenshot-2.png`
+screenshot-1
+screenshot-2
 
 == Changelog ==
 
