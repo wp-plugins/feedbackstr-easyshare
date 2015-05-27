@@ -6,7 +6,7 @@ Requires at least: 3.1
 Tested up to: 4.2.2
 Stable tag: 1.0.0
 
-Integrate your Feedbackstr.com feedback tab or your entire survey into your Wordpress page. You can also change all tab settings directly on the Wordpress administration area.
+Integrate your Feedbackstr.com feedback tab or your entire survey into your Wordpress page and change all tab settings directly on the Wordpress admin area.
 
 == Description ==
 
