@@ -1,5 +1,5 @@
 === Feedbackstr easyShare ===
-Contributors: spectos.com
+Contributors: spectos, 
 Tags: Feedbackstr, Sidetab, Spectos, easyshare, iFrame, survey, Fragebogen, Umfrage
 Donate link: http://feedbackstr.com
 Requires at least: 3.1
