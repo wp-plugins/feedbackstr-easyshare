@@ -1,4 +1,4 @@
-h3 { 
+h3 {
 	color: #829596;
 	font-size: 20px;
 	margin: 1em 0;
@@ -21,8 +21,8 @@ h5 {
 	text-align:center;
 }
 
-.d-hidden { 
-	display:none; 
+.d-hidden {
+	display:none;
 }
 
 a.account {
@@ -60,10 +60,10 @@ a.cockpit {
 	border-bottom:solid 1px #dddddd;
 }
 
-.fdb-wrap h2 { 
-	color:#E02E02; 
-	font-weight:bold; 
-	
+.fdb-wrap h2 {
+	color:#E02E02;
+	font-weight:bold;
+
 }
 
 .fdb-easy-tab-topline {
@@ -83,17 +83,17 @@ a.cockpit {
 	margin-left:25px;
 }
 .fdb-float-l {
-	float:left; 
-	position:relative; 
+	float:left;
+	position:relative;
 }
 
 .fdb-float-r {
-	float:right; 
-	position:relative; 
+	float:right;
+	position:relative;
 }
 
-.fdb-w-50 { 
-	width:50%; 
+.fdb-w-50 {
+	width:50%;
 }
 
 .fdb-infobox {
@@ -120,7 +120,7 @@ a.cockpit {
 	margin-left: 2.2%;
 	text-align:center;
 	min-height:200px;
-	
+
 }
 .fdb-option:hover {
 	background: #efefef;
@@ -246,7 +246,9 @@ img.facebook:hover {
     margin-left: -38px;
 }
 
-.form-table input.tog, input[type="checkbox"], input[type="radio"] { display:none;}
+#fdb-tryout-close {
+    display: none;
+}
 
 .slideThree {
 width: 196px;
@@ -298,22 +300,22 @@ text-align: center;
 .slideThree input[type=checkbox]:checked + label {
 	    left: 50px;
 		width:145px !important;
-		
+
 }
 
 
 
 @media
-only screen and (max-width: 760px){ 
-	
+only screen and (max-width: 760px){
+
 	.fdb-float-r {
 		width:70% !important;
 	}
-	
+
 	.fdb-float-l {
-		width:30% !important; 
+		width:30% !important;
 	}
-	
+
 	.fdb-infobox {
 		margin-bottom: 0px;
 		border-bottom: 1px solid #D3DADB;
@@ -352,18 +354,18 @@ only screen and (max-width: 480px){
 		margin: 12px 0px;
 		max-height: 27px;
 	}
-	
-	.fdb-easy-tab-topline { 
-		text-align:center; 
+
+	.fdb-easy-tab-topline {
+		text-align:center;
 	}
-	
-	.m-hidden { 
-		display:none; 
+
+	.m-hidden {
+		display:none;
 	}
-	.d-hidden { 
-		display:block; 
+	.d-hidden {
+		display:block;
 	}
-	
+
 	a.account {
 		margin: 20px 10px 20px 0px;
 		width: auto;

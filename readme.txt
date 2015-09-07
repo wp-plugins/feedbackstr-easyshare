@@ -1,5 +1,5 @@
 === Feedbackstr easyShare ===
-Contributors: spectos, 
+Contributors: spectos,
 Tags: Feedbackstr, Sidetab, Spectos, easyshare, iFrame, survey, Fragebogen, Umfrage
 Donate link: http://feedbackstr.com
 Requires at least: 3.1
@@ -10,7 +10,9 @@ Integrate your Feedbackstr.com feedback tab or your entire survey into your Word
 
 == Description ==
 Displaying your survey on your website has never been easier!
-Feedbackstr easyShare is a free plugin which enables you to display and share a Feedbackstr survey on your Wordpress page.
+Feedbackstr easyShare is a free plugin which enables you to display and share a Feedbackstr survey on your Wordpress page.are
+
+Check our newest [easyShare Blogpost](https://www.feedbackstr.com/en/blog/easyshare-feedbackstr-takes-wordpress-by-storm/ \"Check it out! \")!
 
 Placing a Feedbackstr Sidetab on your website or inserting your survey via iFrame into articles or pages is done within a matter of clicks. In order to do so, click on the extra button we\'ve added to your Visual Editor and enter your survey\'s URL. That\'s it!
 
@@ -31,5 +33,7 @@ More Information at [Feedbackstr.com](http://feedbackstr.com/ \"Our Feedbackstr 
 2. Feedbackstr iFrame Generator
 
 == Changelog ==
+= Version 1.0.1 =
+- Bugfix CSS, all Checkboxes in Wordpress Admin are visible now.
 = Version 1.0.0 =
 * Initial Release
