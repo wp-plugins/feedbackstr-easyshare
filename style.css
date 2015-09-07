@@ -1,0 +1,380 @@
+h3 {
+	color: #829596;
+	font-size: 20px;
+	margin: 1em 0;
+	font-family: Helvetica, Roboto, Arial, sans-serif;
+	font-weight: 100;
+}
+
+h4 {
+	font-size: 1em;
+	margin: 0px;
+	padding: 0px;
+	line-height: 1.2;
+	color:#000000;
+	text-align:center;
+}
+
+h5 {
+	font-size: .83em;
+	margin: 7px 0px 17px 0px;
+	text-align:center;
+}
+
+.d-hidden {
+	display:none;
+}
+
+a.account {
+	background: #e02e00;
+	padding: 10px 20px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	border-bottom: solid 2px #982a18;
+	margin: 4px 25px 0px 0px;
+	display: block;
+	width: auto;
+	float: right;
+}
+
+a.cockpit {
+	background: #78B7ED;
+	padding: 10px 20px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	border-bottom: solid 2px #386eee;
+	margin: 4px 0px 0px 0px;
+	display: block;
+	width: auto;
+	float: right;
+}
+
+.fdb-wrap {
+	background: #fff;
+	margin: 0px 0px 0px -1.7%;
+	overflow: hidden;
+	padding: 0px;
+	width: 101.7%;
+	border-bottom:solid 1px #dddddd;
+}
+
+.fdb-wrap h2 {
+	color:#E02E02;
+	font-weight:bold;
+
+}
+
+.fdb-easy-tab-topline {
+   	float: left;
+	height: 50px;
+	background: #fbfbfb;
+	width: 100%;
+	border-top: 3px solid #1e69a3;
+	padding: 10px 0px;
+}
+
+.fdb-logo {
+    float:left;
+    margin-top: 12px;
+    max-height: 27px;
+    text-align: left;
+	margin-left:25px;
+}
+.fdb-float-l {
+	float:left;
+	position:relative;
+}
+
+.fdb-float-r {
+	float:right;
+	position:relative;
+}
+
+.fdb-w-50 {
+	width:50%;
+}
+
+.fdb-infobox {
+	padding: 0px 25px;
+	background: #ecf0f1;
+	display: block;
+	float: left;
+	width: 100%;
+	margin-bottom: 25px;
+	border-bottom: 1px solid #d3dadb;
+	border-top: 1px solid #d3dadb;
+}
+
+.fdb-option {
+    background: none repeat scroll 0 0 #FFFFFF;
+	float: left;
+	height: auto;
+	list-style-type: none;
+	margin: 0 2.5% 20px 0;
+	overflow: hidden;
+	padding: 25px 2%;
+	position: relative;
+	width: 16%;
+	margin-left: 2.2%;
+	text-align:center;
+	min-height:200px;
+
+}
+.fdb-option:hover {
+	background: #efefef;
+}
+
+.options-ico {
+    height: 40px;
+    margin: 5px auto 25px auto;
+    display: block;
+	opacity:0.7;
+}
+
+.fdb-form-bar {
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #D5D5D5 !important;
+    border-radius: 3px !important;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.08) inset !important;
+    display: block !important;
+    height: 26px !important;
+    position: absolute !important;
+    width: 490px !important;
+    z-index: 1;
+}
+
+option.selected { background:#eeeeee; color:666666; opacity:0.5; pointer-events: none;  cursor: default;}
+option {padding:6px 5px; }
+
+input[type="text"] {
+	border: solid 1px #eee;
+	padding: 8px 15px;
+	box-shadow: none;
+}
+
+input[type="submit"] {
+	background: none repeat scroll 0% 0% #9BBD59;
+	border: 0px none;
+	padding: 10px 20px;
+	font-weight: bold;
+	text-shadow: none;
+	font-size: 14px;
+	color: #FFF;
+	cursor: pointer;
+	margin: 10px 25px 30px;
+	float: left;
+	border-bottom: solid 2px #7caa40;
+}
+
+select.fdb {
+    width: 100%;
+    border: solid 1px #eee !important;
+    box-shadow: none;
+    height: 40px !important;
+}
+
+.wp-color-result {
+    border: 0px;
+    border-radius: 0px;
+    cursor: pointer;
+    height: 40px;
+    margin: 0px 6px 6px -20px;
+    position: relative;
+    -moz-user-select: none;
+    vertical-align: bottom;
+    display: inline-block;
+    padding-left: 40px;
+    box-shadow: none;
+	width:100%;
+}
+
+.wp-color-result:after {
+    background: none repeat scroll 0% 0% #ffffff;
+    border-radius: 0px;
+    color: #555;
+    content: attr(title);
+    display: block;
+    font-size: 14px;
+    line-height: 39px;
+    padding: 0px 6px;
+    position: relative;
+    right: 0px;
+    text-align: center;
+    top: 0px;
+    box-shadow: none;
+    border: solid 1px #eee;
+}
+
+.wp-picker-container .iris-picker {
+	margin-left: -47px;
+}
+
+.wp-picker-container, .wp-picker-container:active {
+    display: inline-block;
+    outline: 0px none;
+    width: 80%;
+}
+
+.fdb-footer-l {
+	background: none repeat scroll 0% 0% #FFF;
+	padding: 20px 25px 15px; float:left;
+}
+
+img.facebook {
+    max-height: 28px;
+	opacity:0.5;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	padding-left:12px;
+}
+
+img.facebook:hover {
+	opacity:1;
+}
+
+.desc { min-height:75px; }
+
+.wp-picker-container input.wp-color-picker[type="text"] {
+    width: 97px;
+    font-size: 12px;
+    font-family: helvetica;
+    padding: 6px 0px;
+    margin-left: -38px;
+}
+
+#fdb-tryout-close {
+    display: none;
+}
+
+.slideThree {
+width: 196px;
+height: 40px;
+background: #ECF0F1 none repeat scroll 0% 0%;
+margin: 10px 0px 0px 56px;
+border-radius: 0px;
+position: relative;
+float: left;
+border: 1px solid #D3DADB;
+box-shadow: -1px 1px 3px -3px #555 inset;
+}
+
+.slideThree:after {
+	font: 18px/26px Arial,sans-serif;
+	color: #e02e00;
+	position: absolute;
+	right: 10px;
+	z-index: 0;
+	top:7px;
+}
+
+.slideThree:before {
+
+font: 18px/26px Arial,sans-serif;
+color: #9bbd59;
+position: absolute;
+left: 10px;
+z-index: 0;
+top: 7px;
+}
+
+.slideThree label {
+display: block;
+width: 134px !important;
+height: 18px;
+transition: all 0.4s ease 0s;
+cursor: pointer;
+position: absolute;
+top: 1px;
+left: 1px;
+z-index: 1;
+background: #FFF none repeat scroll 0% 0%;
+box-shadow: 0px 0px 3px -2px #444;
+padding: 10px 0px;
+text-align: center;
+}
+
+.slideThree input[type=checkbox]:checked + label {
+	    left: 50px;
+		width:145px !important;
+
+}
+
+
+
+@media
+only screen and (max-width: 760px){
+
+	.fdb-float-r {
+		width:70% !important;
+	}
+
+	.fdb-float-l {
+		width:30% !important;
+	}
+
+	.fdb-infobox {
+		margin-bottom: 0px;
+		border-bottom: 1px solid #D3DADB;
+		border-top: 1px solid #D3DADB;
+	}
+
+	.fdb-option {
+		margin: 0px 0px;
+		padding: 30px 2.5%;
+		width: 45%;
+		border-bottom: solid 1px #eee;
+	}
+
+}
+
+@media
+only screen and (max-width: 480px){
+
+	.fdb-float-l {
+		width: 100% !important;
+	}
+	.fdb-float-r {
+		float: left;
+		width:100% !important;
+	}
+
+	.fdb-option {
+		margin: 0px;
+		padding: 30px 0px;
+		width: 100%;
+		min-width: 300px;
+		border-bottom: solid 1px #eee;
+	}
+	.fdb-logo {
+		float:none;
+		margin: 12px 0px;
+		max-height: 27px;
+	}
+
+	.fdb-easy-tab-topline {
+		text-align:center;
+	}
+
+	.m-hidden {
+		display:none;
+	}
+	.d-hidden {
+		display:block;
+	}
+
+	a.account {
+		margin: 20px 10px 20px 0px;
+		width: auto;
+		float: left;
+	}
+
+	a.cockpit {
+		margin: 20px 0px 0px 0px;
+		width: auto;
+		float: left;
+	}
+}

@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Feedbackstr easyShare v1.1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-05-21 12:34:00+0000\n"
+"Last-Translator: benjamin-sonnenschein <benjamin.sonnenschein@spectos.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'AuthorURI'
+#: index.php:0
+#@ fdbeasyshare
+msgid "http://spectos.com"
+msgstr "http://spectos.com"
+
+#: dashboard/dashboard.php:104
+#: dashboard/dashboard.php:112
+#@ fdbeasyshare
+msgid "sliding"
+msgstr "Slider"
+
+#: dashboard/dashboard.php:106
+#: dashboard/dashboard.php:113
+#@ fdbeasyshare
+msgid "fullpage"
+msgstr "Lightbox"
+
+#: dashboard/dashboard.php:108
+#: dashboard/dashboard.php:114
+#@ fdbeasyshare
+msgid "window"
+msgstr "Neues Fenster"
+
+#: dashboard/dashboard.php:64
+#@ fdbeasyshare
+msgid "Surveys short URL"
+msgstr "Fragebogen Shortlink"
+
+#: dashboard/dashboard.php:65
+#@ fdbeasyshare
+msgid "Please enter your surveys short URL."
+msgstr "Bitte geben Sie den Shortlink zu Ihrem Fragebogen an"
+
+#: dashboard/dashboard.php:74
+#@ fdbeasyshare
+msgid "Tab Style"
+msgstr "Tab Style"
+
+#: dashboard/dashboard.php:75
+#@ fdbeasyshare
+msgid "On which side should your tab be displayed?"
+msgstr "Auf welcher Seite soll der Tab dargestellt werden ?"
+
+#: dashboard/dashboard.php:81
+#: dashboard/dashboard.php:86
+#@ fdbeasyshare
+msgid "Left"
+msgstr "Links"
+
+#: dashboard/dashboard.php:83
+#: dashboard/dashboard.php:87
+#@ fdbeasyshare
+msgid "Right"
+msgstr "Rechts"
+
+#: dashboard/dashboard.php:94
+#@ fdbeasyshare
+msgid "Open"
+msgstr "Öffnen"
+
+#: dashboard/dashboard.php:126
+#@ fdbeasyshare
+msgid "Select tab color"
+msgstr "Farbe des Tabs wählen"
+
+#: dashboard/dashboard.php:127
+#@ fdbeasyshare
+msgid "Which color should the tab have?"
+msgstr "In welcher Farbe soll der Sidetab dargestellt werden?"
+
+#: dashboard/dashboard.php:141
+#@ fdbeasyshare
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: dashboard/footer.php:4
+#: dashboard/header.php:9
+#@ fdbeasyshare
+msgid "Request an account"
+msgstr "Zugang anfordern"
+
+#: dashboard/footer.php:5
+#: dashboard/header.php:10
+#@ fdbeasyshare
+msgid "Login / Cockpit"
+msgstr "Login / Cockpit"
+
+#. translators: plugin header field 'PluginURI'
+#: index.php:0
+#@ fdbeasyshare
+msgid "http://feedbackstr.com/en/feedbackstr-easyshare"
+msgstr "http://feedbackstr.com/de/feedbackstr-easyshare"
+
+#. translators: plugin header field 'Author'
+#: index.php:0
+#@ fdbeasyshare
+msgid "Spectos"
+msgstr "Spectos GmbH"
+
+#: dashboard/dashboard.php:53
+#@ fdbeasyshare
+msgid "Welcome to Feedbackstr easyShare."
+msgstr "Willkomen bei Feedbackstr easyShare ..."
+
+#. translators: plugin header field 'Description'
+#: index.php:0
+#@ fdbeasyshare
+msgid "Integrate your <a href=\"http://feedbackstr.com\">Feedbackstr.com</a> feedback tab or your entire survey into your Wordpress page. You can also change all tab settings directly on the Wordpress administration area."
+msgstr "Binden Sie Ihren <a href=\\\"http://feedbackstr.com\\\">Feedbackstr.com</a> Feedback-Tab ganz einfach in Ihre Wordpress-Seite ein. Im <strong>Adminbereich</strong> können dann auch problemlos <strong>Farben</strong> und <strong>Funktionen</strong> des Tabs geändert werden."
+
+#: dashboard/dashboard.php:95
+#@ fdbeasyshare
+msgid "How should the website open after clicking on the tab?"
+msgstr "Wie soll sich der Fragebogen bei einem Klick auf das Sidetab öffnen?"
+
+#: dashboard/footer.php:10
+#@ fdbeasyshare
+msgid "Feedbackstr is a product of <a target=\"_blank\" href=\"http://spectos.com\">Spectos</a> <br /><span style=\"color:#888;\">Thank you for using Feedbackstr Easyshare V ###</span>"
+msgstr "Feedbackstr ist ein Produkt der <a target=\"_blank\" href=\"http://spectos.com\">Spectos GmbH</a> <br /><span style=\"color:#888;\">Vielen Dank für die Benutzung von Feedbackstr easyShare Version 1.0</span>"
+
+#. translators: plugin header field 'Name'
+#: index.php:0
+#@ fdbeasyshare
+msgid "Feedbackstr easyShare"
+msgstr ""
+
+#: shortcode-button.php:57
+#@ fdbeasyshare
+msgid "js/shortcode-button.js"
+msgstr "js/shortcode-button-de.js"
+
+#: dashboard/dashboard.php:49
+#@ fdbeasyshare
+msgid "OFF"
+msgstr "AUS"
+
+#: dashboard/dashboard.php:50
+#@ fdbeasyshare
+msgid "ON"
+msgstr "AN"
+
+#. translators: plugin header field 'Version'
+#: index.php:0
+#@ fdbeasyshare
+msgid "1.1.2"
+msgstr ""
+
+#: dashboard/dashboard.php:136
+#@ fdbeasyshare
+msgid "show sidetab"
+msgstr "Sidetab anzeigen"
+
