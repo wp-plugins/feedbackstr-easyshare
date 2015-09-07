@@ -3,8 +3,8 @@ Contributors: spectos,
 Tags: Feedbackstr, Sidetab, Spectos, easyshare, iFrame, survey, Fragebogen, Umfrage
 Donate link: http://feedbackstr.com
 Requires at least: 3.1
-Tested up to: 4.2.2
-Stable tag: 1.0.0
+Tested up to: 4.3
+Stable tag: 1.0.1
 
 Integrate your Feedbackstr.com feedback tab or your entire survey into your Wordpress page and change all tab settings directly on the Wordpress admin area.
 
